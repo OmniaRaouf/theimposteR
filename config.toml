@@ -16,8 +16,8 @@ paginate = 5
   page = "/:slug/"
 
 [[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+  name = "Linkedin"
+  url = "https://www.linkedin.com/in/omniarmohamed/"
 
 [[menu.sidebar]]
   name = "Twitter"
